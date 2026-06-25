@@ -134,6 +134,6 @@ Score: 81.23%
 
 ## Author
 
-Mohammad Aqtar
+Mohammad Aktar K
 
 Electrical Engineering Graduate | Electric Vehicle Technology Enthusiast
